@@ -23,17 +23,24 @@ ul{
     background-repeat: no-repeat;
     background-size: 10%;
     background-position: 50% 85%;
+
     
 }
 .toubu2{
     width: 100%;
     height: 800px;
     background-color: #222831;
+    background-image: url(506a2e547ef7a94f4c37915d2f79777.png);
+
+
+    
+    
 }
 .buy{
-    width: 800px;
+    width: 100%;
     height: 120px;
-    padding: 2% 0 0 33%;
+    padding: 2% 0 0 35%;
+    background-color: #111418;
 
 }
 .video{
